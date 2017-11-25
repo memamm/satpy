@@ -44,7 +44,9 @@ SENSOR = {'NOAA-19': 'avhrr/3',
           'EOS-Aqua': 'modis',
           'EOS-Terra': 'modis',
           'Suomi-NPP': 'viirs',
-          'JPSS-1': 'viirs', }
+          'JPSS-1': 'viirs',
+          'NOAA-20': 'viirs',
+          'NOAA-21': 'viirs', }
 
 PLATFORM_NAMES = {'MSG1': 'Meteosat-8',
                   'MSG2': 'Meteosat-9',
